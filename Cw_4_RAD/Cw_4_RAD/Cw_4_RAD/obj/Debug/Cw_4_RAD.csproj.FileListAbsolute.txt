@@ -1,0 +1,14 @@
+C:\Users\Alien\Desktop\US-INF\RAD\Cw_4_RAD\Cw_4_RAD\Cw_4_RAD\bin\Debug\Cw_4_RAD.exe.config
+C:\Users\Alien\Desktop\US-INF\RAD\Cw_4_RAD\Cw_4_RAD\Cw_4_RAD\bin\Debug\Cw_4_RAD.exe
+C:\Users\Alien\Desktop\US-INF\RAD\Cw_4_RAD\Cw_4_RAD\Cw_4_RAD\bin\Debug\Cw_4_RAD.pdb
+C:\Users\Alien\Desktop\US-INF\RAD\Cw_4_RAD\Cw_4_RAD\Cw_4_RAD\obj\Debug\MainWindow.g.cs
+C:\Users\Alien\Desktop\US-INF\RAD\Cw_4_RAD\Cw_4_RAD\Cw_4_RAD\obj\Debug\App.g.cs
+C:\Users\Alien\Desktop\US-INF\RAD\Cw_4_RAD\Cw_4_RAD\Cw_4_RAD\obj\Debug\Cw_4_RAD_MarkupCompile.cache
+C:\Users\Alien\Desktop\US-INF\RAD\Cw_4_RAD\Cw_4_RAD\Cw_4_RAD\obj\Debug\Cw_4_RAD_MarkupCompile.lref
+C:\Users\Alien\Desktop\US-INF\RAD\Cw_4_RAD\Cw_4_RAD\Cw_4_RAD\obj\Debug\MainWindow.baml
+C:\Users\Alien\Desktop\US-INF\RAD\Cw_4_RAD\Cw_4_RAD\Cw_4_RAD\obj\Debug\Cw_4_RAD.g.resources
+C:\Users\Alien\Desktop\US-INF\RAD\Cw_4_RAD\Cw_4_RAD\Cw_4_RAD\obj\Debug\Cw_4_RAD.Properties.Resources.resources
+C:\Users\Alien\Desktop\US-INF\RAD\Cw_4_RAD\Cw_4_RAD\Cw_4_RAD\obj\Debug\Cw_4_RAD.csproj.GenerateResource.Cache
+C:\Users\Alien\Desktop\US-INF\RAD\Cw_4_RAD\Cw_4_RAD\Cw_4_RAD\obj\Debug\Cw_4_RAD.exe
+C:\Users\Alien\Desktop\US-INF\RAD\Cw_4_RAD\Cw_4_RAD\Cw_4_RAD\obj\Debug\Cw_4_RAD.pdb
+C:\Users\Alien\Desktop\US-INF\RAD\Cw_4_RAD\Cw_4_RAD\Cw_4_RAD\obj\Debug\Cw_4_RAD.csprojResolveAssemblyReference.cache
